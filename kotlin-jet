@@ -1,0 +1,6 @@
+if( hari == "jumat" ){
+    println("Pergi jumatan")
+    println("Hari jum'at barokah...")
+} else {
+    println("Hari biasa")
+}
