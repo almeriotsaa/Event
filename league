@@ -1,0 +1,10 @@
+when {
+    "orange" in items -> println("bikin jus")
+    "apple" in items -> println("pake apel juga boleh")
+}
+
+// blok kode perulangan for
+for (item in items) {
+    println(item)
+    println("sudah diprint...")
+}
