@@ -1,0 +1,5 @@
+fun main() {                                      // Function at the top level
+   val employee = Employee("Alice",               // No `new` keyword
+      "alice@mycompany.com", MyCompany.name)
+   println(employee)
+}
